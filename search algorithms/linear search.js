@@ -60,6 +60,8 @@ const array = [4,6,2,7,1,8,40,32,20,21]
 
 findNumber(arr, 20)
 
+//Time Complexity for a linear search is 0(n)
+
 
 // These will not work for an array of objects. it works well for primitive data types(strings, numbers)
 
